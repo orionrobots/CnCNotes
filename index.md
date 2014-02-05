@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Starting Point
 
 I have intended to buy or build a Cnc device for years - a 3d printer, laser cutter, lathe or router. A device where I can design things and let the computer do the work of turning it into a prototype. 
@@ -8,10 +11,10 @@ I went looking around for something I could afford and use. I considered GoCNC w
 
 It arrived a few days later - requiring some assembly - attaching the stepper motors. It came with a large control box. This box has a parallel interface - and from what I can see 
 
-[My Plan 30th Jan 2014](2014-01-30-my_plan.md)
+[My Plan 30th Jan 2014](2014-01-30-my_plan.html)
 
-[Unboxing and setup - 3rd Feb 2014](2014-02-03-unboxing-and-setup.md)
+[Unboxing and setup - 3rd Feb 2014](2014-02-03-unboxing-and-setup.html)
 
-[Connecting it to grbl - 4th Feb 2014](2014-02-04-connecting-it-to-grbl.md)
+[Connecting it to grbl - 4th Feb 2014](2014-02-04-connecting-it-to-grbl.html)
 
-[TearDown - Inside of the controller - 5th Feb 2014](2014-02-05-teardown.md)
+[TearDown - Inside of the controller - 5th Feb 2014](2014-02-05-teardown.html)
