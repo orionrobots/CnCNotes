@@ -1,6 +1,16 @@
 ---
 layout: default
+title: 
 ---
+# CnC Notes
+
+This is a Collection of notes on my adventures in CnC.
+
+I am new to this, but have experience with 3d cad, electronics, robotics, microcontrollers and code - so I should be able to get what I want out of it.
+License
+
+# CC BY SA 3.0
+
 # Starting Point
 
 I have intended to buy or build a Cnc device for years - a 3d printer, laser cutter, lathe or router. A device where I can design things and let the computer do the work of turning it into a prototype. 
