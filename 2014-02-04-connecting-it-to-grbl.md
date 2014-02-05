@@ -4,7 +4,7 @@ description: Connecting my CnC 3020 to grbl
 layout: default
 ---
 
-## Connections
+# Connections
 
 The Machine came with little more than a single sheet and a CD full of Chinese versions of Mach3 and drivers for that. See [Unboxing and setup](2014-02-03-unboxing-and-setup.md) for what else was in the device. The eBay auction also had a link to a MS Word document, which importantly had some of the pin connections so mach3 could be configured. I could cross ref this with the [grbl connections](http://github.com/grbl/grbl/wiki/Connecting-Grbl) to create a wiring plan for attaching it to my machine.
 
@@ -14,7 +14,7 @@ I wired this into the parallel connector at the back of the control box, and sta
 Grbl resets when the machine is powered on - however, putty is still connected - this may mean some power related fluctation - I had also connected the Arduino to what I think was a ground on that port too - for the signals to make sense - they needed a common ground.
 
 <table>
-<tr><th>Arduino Pin</th><th>Parallel port CnC Pin</th></th>
+<tr><th>Arduino Pin</th><th>Parallel port CnC Pin</th></tr>
 <tr><td>A0</td><td>Stop/Emergency reset 10</td></tr>
 <tr><td>2</td><td>Step Pulse X 2</td></tr>
 <tr><td>3</td><td>Step Pulse Y 4</td></tr>
