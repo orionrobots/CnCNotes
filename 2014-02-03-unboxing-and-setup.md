@@ -1,3 +1,8 @@
+---
+title: Unboxing and Setup
+description: Unboxing and Setup
+layout: default
+---
 # Unboxing - what was in it
 
 I received the CnC and it came in a large cardboard box - 22Kg's with a board underneath it. 
