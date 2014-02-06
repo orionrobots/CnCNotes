@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+[Tags](tags.html)
+
 # CnC Notes
 
 This is a Collection of notes on my adventures in CnC.
@@ -20,7 +22,8 @@ I finally took the decision to buy one after seeing a couple of Ben Heck episode
 
 I went looking around for something I could afford and use. I considered GoCNC who have inexpensive machines, but after reading CnC forums, the 3020 type machines are better known. So I bought one of these for less than £500.
 
-It arrived a few days later - requiring some assembly - attaching the stepper motors. It came with a large control box. This box has a parallel interface - and from what I can see 
+It arrived a few days later - requiring some assembly - attaching the stepper motors. It came with a large control box.
+
 
 <ul>
   {% for post in site.posts %}
