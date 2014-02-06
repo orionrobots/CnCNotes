@@ -19,6 +19,14 @@
         <p>{{ page.description }}</p>
         
         <p class="view"><a href="https://github.com/orionrobots/CnCNotes">View the Project on GitHub <small>orionrobots/CnCNotes</small></a></p>
+        {% if page.tags %}
+          <h2>Tags</h2>
+          <ul class="tags">
+          {% for tag in page.tags %}
+            <li><a href="{{ site.baseurl }}/tags.html#{{ tag }}-ref">{{ tag }}</a></li>
+          {% endfor %}
+          </ul>
+        {% endif %}
       </header>
       <section>
         {{ content }}

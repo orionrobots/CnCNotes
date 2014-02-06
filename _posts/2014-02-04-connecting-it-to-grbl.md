@@ -1,12 +1,13 @@
 ---
 title: Connecting my CnC 3020 to grbl
 description: Connecting my CnC 3020 to grbl
+tags: [arduino, grbl, electronics, parallel port]
 layout: default
 ---
 
 # Connections
 
-The Machine came with little more than a single sheet and a CD full of Chinese versions of Mach3 and drivers for that. See [Unboxing and setup](2014-02-03-unboxing-and-setup.md) for what else was in the device. The eBay auction also had a link to a MS Word document, which importantly had some of the pin connections so mach3 could be configured. I could cross ref this with the [grbl connections](http://github.com/grbl/grbl/wiki/Connecting-Grbl) to create a wiring plan for attaching it to my machine.
+The Machine came with little more than a single sheet and a CD full of Chinese versions of Mach3 and drivers for that. See [Unboxing and setup]({% post_url 2014-02-03-unboxing-and-setup %}) for what else was in the device. The eBay auction also had a link to a MS Word document, which importantly had some of the pin connections so mach3 could be configured. I could cross ref this with the [grbl connections](http://github.com/grbl/grbl/wiki/Connecting-Grbl) to create a wiring plan for attaching it to my machine.
 
 I flashed grbl onto an Arduino Uno R3 compatible board, using the hex file and the recommended windows file to upload this. I was able to use putty to talk to grbl and get responses from it. 
 
