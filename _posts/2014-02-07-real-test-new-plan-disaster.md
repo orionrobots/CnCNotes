@@ -2,6 +2,7 @@
 title: Some new ideas, a plan, disaster!
 description: An exciting day, but going to need to replace a part of it
 tags: [electronics, cnc control box]
+layout: default
 ---
 # Recap
 
