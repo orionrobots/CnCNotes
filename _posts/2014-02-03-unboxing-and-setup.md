@@ -8,7 +8,7 @@ layout: default
 
 I received the CnC and it came in a large cardboard box - 22Kg's with a board underneath it. 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/MrDIu_dOczg" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/MrDIu_dOczg" frameborder="0" allowfullscreen="true"> </iframe>
 
 After opening it up, and removing the packaging - there was one box for the steppers, controller, documents and tools, and then under that the machine.
 
