@@ -1,6 +1,6 @@
 ---
 title: Using Heeks CAD to Mill an STL file
-layout: post
+layout: default
 tags: [software, heeks, toolpath]
 ---
 After playing with a few different types of CAM software, I settled on [Heeks CNC](https://sites.google.com/site/heekscad/).
