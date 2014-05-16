@@ -8,6 +8,8 @@ layout: default
 
 I received the CnC and it came in a large cardboard box - 22Kg's with a board underneath it. 
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/MrDIu_dOczg" frameborder="0" allowfullscreen></iframe>
+
 After opening it up, and removing the packaging - there was one box for the steppers, controller, documents and tools, and then under that the machine.
 
 First - I carefully removed the machine and placed it on my desk - I'd cleared some suitable space for it. I set it up so that the bed was facing the wall, so the gantries and business end were closest to me. Steppers weren't attached, and it was also pretty dusty - a quick go over with a handy vac, and wipe down the surfaces (NOT THE BEARINGS!) just to get rid of that.
