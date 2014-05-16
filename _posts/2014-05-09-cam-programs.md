@@ -1,6 +1,6 @@
 ---
 title: Choosing A CAM program
-layout: post
+layout: default
 tags: [software]
 ---
 I will fill in more details about the last few weeks - and me getting some of my first cuts from the machine, 
