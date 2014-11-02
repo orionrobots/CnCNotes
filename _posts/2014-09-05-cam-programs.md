@@ -13,3 +13,6 @@ There is a larger amount of open source or low cost software for 3d printing, bu
 Meshcam is looking like one of the best offerings - with a license at $250, cheaper than many alternatives, but still expensive enough for a hobbyist to feel a bit ouch. It probably makes sense over a few years - especially if that license covers future versions and fixes... Cutviewer looks awesome too.
 
 I am seriously considering this - but in the short term, while I understand this system and plan for it, I am also looking at open source alternatives. I like open source - a lot. So PyCam is looking likely - it is python, it is open source, and includes visual verification. I am yet to understand how sophisticated, and how much fixing or enhancing it will need.
+
+<h1>Comments</h1>
+{% include comments.html %}
