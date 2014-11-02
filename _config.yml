@@ -1,4 +1,6 @@
 pygments: true
 title: Cnc Notes
-baseurl: http://orionrobots.github.io/CnCNotes/
+production_url: http://orionrobots.github.io/CnCNotes/
 encoding: UTF-8
+markdown: kramdown
+baseurl: /CnCNotes
