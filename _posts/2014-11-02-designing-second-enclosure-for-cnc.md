@@ -23,5 +23,6 @@ I now have sketches with measurements of the machine to the nearest centimeter -
 
 03/11/2014 09:13: I've decided to mock up the Cnc machine and its motions ranges in cad, so I can sketch the enclosure around it. I am having a bit of trouble reaching the right compromise of simplicity, accessing the machine inside during day-to-day use, and being space efficient. This may be easier if I settle on using software or a pendant to move the axes in normal use, and not the hand knobs. Then I mostly need to access the bed and spindle. If the access door is not on the side with the stpper sticking out - it is easier to make the door around a regular shape than the complex one.
 
-03/11/2014 21:44: Today I talked over my idea with a colleague, who after seeing a few of my sketches suggested I look at how flight cases are designed.
+03/11/2014 21:44: Today I talked over my idea with a colleague, who after seeing a few of my sketches suggested I look at how flight cases are designed. Unfortunately with a gap in my home internet service - I wont be doing that tonight.
+
 
