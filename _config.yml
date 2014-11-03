@@ -4,3 +4,4 @@ production_url: http://orionrobots.github.io/CnCNotes/
 encoding: UTF-8
 markdown: kramdown
 baseurl: /CnCNotes
+github_url: https://github.com/orionrobots/CnCNotes/tree/gh-pages/
