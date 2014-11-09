@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Close Up Of Disaster
-tags: [electronics, cnc control box]
+tags: [electronics, control board]
 ---
 ![Blown FET]({{ site.baseurl }}/galleries/2014-02-09-cnc-board/destroyed_fet.jpg)
 

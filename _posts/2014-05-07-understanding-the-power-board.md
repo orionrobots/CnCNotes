@@ -4,27 +4,6 @@ layout: post
 tags: [electronics, power-board, soldering]
 ---
 ![]({{ site.baseurl }}/inside__control_box/images/img_3027.jpg)
-After the teardown and ordering the new parts for my board
-I started by replacing the obviously damaged 7812.
-I tried powering the board but the spindle did not move.
-I sat on the problem for a while before truing to understand the board better.
-
-This meant learning a whole bunch of stuff about analogue electronics, power circuits, 555s and op amps oh my!
-
-So I spent a few weeks playing with the 555. watching eevblog tutorials on op amps and power supply design.
-I got a simple led and 555 in stable mode going. figured out current sense and voltage regulators.
-
-Then I looked at the board and it's schematic and stated seeing the blocks.
-
-# The Parts
-
-12v regulated supply
-
-pwm from a 555
-
-FET motor control
-
-current sense.
 
 # The Fix
 
