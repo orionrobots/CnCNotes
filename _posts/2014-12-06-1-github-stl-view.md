@@ -9,4 +9,4 @@ While following the assembly instructions for this kit, at the earliest part, it
 
 [3d viewer](https://help.github.com/articles/3d-file-viewer/)
 
-<script src="https://embed.github.com/view/3d/reprappro/Ormerod/blob/master/stl/individual%20parts/y-idler-bracket.stl"></script>
+<script src="https://embed.github.com/view/3d/reprappro/Ormerod/master/stl/individual%20parts/y-idler-bracket.stl"></script>
