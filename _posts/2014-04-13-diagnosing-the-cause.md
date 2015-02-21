@@ -69,7 +69,7 @@ Its worth explaining this flat line. This would have pulled all the current thro
 
 The 555 for pwm was charging through one diode and discharging through another - each via the potentiometer - the large spindle speed dial. The proportion of one side to the other should exactly control the PWM duty cycle.
  
-If I nudged the pot - I could get the PWM traces - but they were very wrong:
+If I nudged the pot - I could get the PWM traces - but they were wrong:
  
 ![]({{gallery}}/IMG_3404.JPG)
 ![]({{gallery}}/IMG_3405.JPG)

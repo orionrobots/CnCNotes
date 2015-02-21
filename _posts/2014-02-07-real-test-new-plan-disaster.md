@@ -51,7 +51,7 @@ I positioned the spindle manually over the job, then connected it up to the comp
 
 I powered up the spindle - leaving it on the lowest setting, and then it stopped turning at all. Then smoke - the horrible smell of burning electronics.
 
-Disconnect the PC, then the power and turn it all off. Somehow the spindle had blown something - perhaps the very slow speed had meant it wasn't turning and was current shunting. It had blown a fuse in the main board, and replacing that still didn't get the spindle going. The steppers and their controllers seem fine.
+Disconnect the PC, then the power and turn it all off. Somehow the spindle had blown something - perhaps the slow speed means it wasn't turning and was current shunting. It had blown a fuse in the main board, and replacing that still didn't get the spindle going. The steppers and their controllers seem fine.
 
 I now need some other way to control the spindle - or to replace that power board. Time to take a little break and think - I can always solder together that shield too.
 

@@ -8,7 +8,7 @@ building a dust cover, and publishing videos. There was also a lot of terminolog
 
 I have started looking at CAM software - converting my ideas to actual milling toolpaths, hopefully aware of the endmill sizes. I have found that a lot of it is both expensive and complicated. Perhaps this is due to a niche audience, and a complicated task. 
 
-There is a larger amount of open source or low cost software for 3d printing, but this will not work very well with milling - where as well as depth, mill radius, filling strategies and cutting direction need consideration. 
+There is a larger amount of open source or low cost software for 3d printing, but this will not work well with milling - where as well as depth, mill radius, filling strategies and cutting direction need consideration.
 
 Meshcam is looking like one of the best offerings - with a license at $250, cheaper than many alternatives, but still expensive enough for a hobbyist to feel a bit ouch. It probably makes sense over a few years - especially if that license covers future versions and fixes... Cutviewer looks awesome too.
 

@@ -9,7 +9,7 @@ First it was poorly documented - I got photos at the time, which I've yet to get
 Second - it was too big - I'd way overdone leaving room for the machine, which simply made it bulky and cumbersome. Poor engineering really.
 Thirdly - the sheets tore pretty quickly, and tape - well, it was a bit rubbish.
 
-This hacky thing allowed me to control dust a bit, but it was very poor, the whole thing has to be lifted off the CnC mill to change tools or adjust the axes, the visibility was worse than I expected. So - it was mostly kept off. Which meant the mill wasn't used much because I still don't have adequate dust and chip control.
+This hacky thing allowed me to control dust a bit, but it was poor, the whole thing has to be lifted off the CnC mill to change tools or adjust the axes, the visibility was worse than I expected. So - it was mostly kept off. Which meant the mill wasn't used much because I still don't have adequate dust and chip control.
 
 This is my next attempt. The overall plan is to design something using pywood with a few clear acrylic panels, with much better engineered tolerances to fit tighter, access doors with hinges, cable ports, a dust control port, some vents too. 
 
