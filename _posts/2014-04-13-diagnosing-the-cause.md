@@ -80,9 +80,7 @@ I have to hold like the image below to get a regular trace:
 
 I took a video of this part of the diagnosis:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/tccpqdDlxg8" frameborder="0" allowfullscreen="true"></iframe>
-
-
+<iframe width="560" height="315" src="//www.youtube.com/embed/5dG0UPwRt30" frameborder="0" allowfullscreen="true"></iframe>
 
 My next task is to find a suitable pot - or a place to mount it.
 
